@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab7PrograIV", "Lab7PrograIV\Lab7PrograIV.csproj", "{B5F8BC8F-349C-4E51-99CB-16FE5EA83CBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{684EFAA7-63DD-4622-9FD4-E1C010554710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F8BC8F-349C-4E51-99CB-16FE5EA83CBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F8BC8F-349C-4E51-99CB-16FE5EA83CBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F8BC8F-349C-4E51-99CB-16FE5EA83CBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F8BC8F-349C-4E51-99CB-16FE5EA83CBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{684EFAA7-63DD-4622-9FD4-E1C010554710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684EFAA7-63DD-4622-9FD4-E1C010554710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684EFAA7-63DD-4622-9FD4-E1C010554710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684EFAA7-63DD-4622-9FD4-E1C010554710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC7FC973-9086-4908-877D-75829A1512A1}
+	EndGlobalSection
+EndGlobal
